@@ -1,5 +1,7 @@
 # My Website
 
+Check it out [my website](https://rwongsing.github.io).
+
 ## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
