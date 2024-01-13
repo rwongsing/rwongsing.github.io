@@ -1,0 +1,9 @@
+company: Maxar Technologies
+title: Software Engineer Intern
+start_date: Jun
+end_date: Sep 2020
+url: https://www.maxar.com/
+description: Developed, maintained, and shipped production code for Ground Software Team, including a rollback feature for analyzing past spacecraft testing metrics.
+tools:
+  - Python
+  - JavaScript

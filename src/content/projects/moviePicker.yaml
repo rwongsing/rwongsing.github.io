@@ -1,0 +1,9 @@
+title: Movie Night Picker
+date: 2020-04-20
+url: https://github.com/rwongsing/Movie-Night-App
+image: "~/assets/heros/placeholder.jpg"
+description: Web app designed to help friends choose a movie to watch. Stop wasting time squabbling over why Rango is the best movie and press play already!
+tools:
+  - Python
+  - HTML
+  - JSON

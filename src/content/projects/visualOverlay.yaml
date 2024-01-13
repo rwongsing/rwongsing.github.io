@@ -1,0 +1,8 @@
+title: Visual Overlay - Customized Map and Points
+date: 2021-08-16
+url: https://splunkbase.splunk.com/app/5651
+image: "~/assets/heros/placeholder.jpg"
+description: Upload custom maps to use as a background image and overlay other icons at specific locations on top of that map within Splunk. You are no longer restrained to single point visualizations on top of geographic maps.
+tools:
+  - JavaScript
+  - Python

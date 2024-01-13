@@ -1,0 +1,11 @@
+company: Bay Area Rapid Transit
+title: Systems Engineer Intern
+start_date: Jun
+end_date: Aug 2021
+url: https://www.bart.gov/
+description: Worked with the Systems Engineering team to design and implement a weather vizualition dashboard that overlays hazard icons over the BART map based on real-time data.
+tools:
+  - Python
+  - JavaScript
+  - HTML
+  - CSS
