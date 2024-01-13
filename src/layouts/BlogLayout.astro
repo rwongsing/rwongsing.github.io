@@ -1,6 +1,5 @@
 ---
 import Layout from "@layouts/Layout.astro";
-import Pagination from "@components/Pagination.astro";
 import { Image } from "astro:assets";
 import authorImage from "../assets/me.jpg";
 import type { ImageMetadata } from "astro";
@@ -86,5 +85,4 @@ const fullUpdatedDate = updatedDate?.toLocaleDateString("en", {
   >
     <slot />
   </article>
-  <Pagination />
 </Layout>
