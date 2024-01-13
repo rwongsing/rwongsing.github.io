@@ -36,6 +36,11 @@ export const socials = [
     href: "https://github.com/rwongsing",
     username: "rwongsing",
   },
+  {
+    icon: "email",
+    href: "mailto:robertwongsing@gmail.com",
+    username: "rwongsing"
+  }
 ];
 
 export const skills = [
