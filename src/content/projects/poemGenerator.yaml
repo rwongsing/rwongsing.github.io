@@ -1,0 +1,9 @@
+title: Movie Night Picker
+date: 2021-04-20
+url: https://github.com/rwongsing/Poem-Generator
+image: "~/assets/heros/poem_generator.png"
+description: Program designed to construct 3-lined poems centered around a topic. Uses Regex to parse text and extract sentences including key, topic words. Interactive GUI developed using Java Swing.
+tools:
+  - Java
+  - Swing
+  - Regex
