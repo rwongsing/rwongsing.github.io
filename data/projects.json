@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Minimal Portfolio",
+    "description": "A lightweight vanilla HTML/JS portfolio. Everything runs statically from GitHub Pages.",
+    "tags": ["HTML", "CSS", "JS"],
+    "repo": "https://github.com/rwongsing/rwongsing.github.io",
+    "demo": "https://rwongsing.github.io"
+  },
+  {
+    "title": "Weather CLI API",
+    "description": "A minimal command-line utility for getting accurate weather info directly from terminal.",
+    "tags": ["Python", "CLI", "API"],
+    "repo": "#",
+    "demo": null
+  }
+]

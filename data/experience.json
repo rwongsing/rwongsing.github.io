@@ -1,0 +1,59 @@
+[
+    {
+        "company": "C3 AI",
+        "title": "Software Engineer II",
+        "start_date": "2024",
+        "end_date": "Present",
+        "url": "https://c3.ai/",
+        "description": "Developed and maintained scalable front-end architecture. Focused on performance and un-frameworking legacy systems.",
+        "tools": [
+            "Python",
+            "TypeScript",
+            "React",
+            "SQL",
+            "Grafana"
+        ]
+    },
+    {
+        "company": "Amyris",
+        "title": "Software Engineer I",
+        "start_date": "2021",
+        "end_date": "FEB 2024",
+        "url": "https://www.amyris.com/",
+        "description": "Developed optimized and user-friendly web apps for a diverse array of projects supporting scientists with research tools. Collaborated with stakeholders to define project scopes, objectives, and requirements, ensuring alignment between technical capabilities and business needs.",
+        "tools": [
+            "Python",
+            "JavaScript",
+            "React",
+            "Pyramid",
+            "SQL",
+            "Docker"
+        ]
+    },
+    {
+        "company": "Bay Area Rapid Transit",
+        "title": "Systems Engineer Intern",
+        "start_date": "JUN",
+        "end_date": "AUG 2021",
+        "url": "https://www.bart.gov/",
+        "description": "Worked with the Systems Engineering team to design and implement a weather vizualition dashboard that overlays hazard icons over the BART map based on real-time data.",
+        "tools": [
+            "Python",
+            "JavaScript",
+            "HTML",
+            "CSS"
+        ]
+    },
+    {
+        "company": "Maxar Technologies",
+        "title": "Software Engineer Intern",
+        "start_date": "JUN",
+        "end_date": "SEP 2020",
+        "url": "https://www.maxar.com/",
+        "description": "Designed high-quality production code for Ground Software Team, including a rollback feature for analyzing past spacecraft testing metrics.",
+        "tools": [
+            "Python",
+            "JavaScript"
+        ]
+    }
+]

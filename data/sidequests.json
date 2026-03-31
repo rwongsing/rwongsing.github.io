@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Learn Sourdough Baking",
+        "description": "Keep standard starter alive and bake a decent crusty loaf without burning the bottom.",
+        "status": "Ongoing",
+        "category": "Food"
+    },
+    {
+        "title": "Read 20 Books in 2024",
+        "description": "Currently at 4/20. Reading mostly classical sci-fi and historical non-fiction.",
+        "status": "Active",
+        "category": "Experiences"
+    },
+    {
+        "title": "Run a Half Marathon",
+        "description": "Training plan selected. Need to start zone 2 base training immediately.",
+        "status": "Inspired",
+        "category": "Experiences"
+    },
+    {
+        "title": "Build Vanilla JS Portfolio",
+        "description": "A single page app with zero build tools and local JSON.",
+        "status": "Realized",
+        "category": "Engineering"
+    }
+]
