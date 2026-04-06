@@ -1,13 +1,14 @@
 ---
-title: "music"
+title: "musical tunes"
 tags: ["music"]
+alias: "music"
 ---
 
 I like music.
 
 Here's some of my favorite genres:
 
-1. [[Hyperpop]]
+1. \[\[Hyperpop\]\]
 
 ---
 
