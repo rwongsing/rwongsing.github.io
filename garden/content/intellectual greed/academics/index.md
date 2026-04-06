@@ -1,4 +1,4 @@
 ---
 title: "academics"
-tags: ["intellectual greed", "knowledge", "academics"]
+tags: ["knowledge", "academics"]
 ---

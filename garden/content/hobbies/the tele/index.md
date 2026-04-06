@@ -1,6 +1,6 @@
 ---
-title: "tv shows"
-tags: ["tvshows", "anime", "cartoons", "real people"]
+title: "the tele"
+tags: ["anime", "cartoons", "tv shows"]
 ---
 
 Growing up as a kid, I would watch cartoons on tv everyday in the morning. I grew up on Nickelodeon, Cartoon Network, and Disney Channel shows; Spongebob being my favorite amongst them.

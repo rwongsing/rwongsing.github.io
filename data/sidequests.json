@@ -1,26 +1,38 @@
 [
     {
-        "title": "Learn Sourdough Baking",
-        "description": "Keep standard starter alive and bake a decent crusty loaf without burning the bottom.",
-        "status": "Ongoing",
-        "category": "Food"
+        "title": "Complete all Mainline Pokemon Games",
+        "description": "Defeat all gym leaders and the Elite Four.",
+        "status": "Active",
+        "category": "Hobbies"
     },
     {
-        "title": "Read 20 Books in 2024",
-        "description": "Currently at 4/20. Reading mostly classical sci-fi and historical non-fiction.",
+        "title": "Climb a v7 Grade Boulder",
+        "description": "Currently climbing v5. Need to keep improving.",
         "status": "Active",
-        "category": "Experiences"
+        "category": "Hobbies"
+    },
+    {
+        "title": "Build my Digital Garden",
+        "description": "Continously add notes, journal thoughts, and track my life.",
+        "status": "Ongoing",
+        "category": "Hobbies"
     },
     {
         "title": "Run a Half Marathon",
-        "description": "Training plan selected. Need to start zone 2 base training immediately.",
+        "description": "Currently not in any shape to run.",
         "status": "Inspired",
         "category": "Experiences"
     },
     {
-        "title": "Build Vanilla JS Portfolio",
-        "description": "A single page app with zero build tools and local JSON.",
-        "status": "Realized",
-        "category": "Engineering"
+        "title": "Explore Europe",
+        "description": "Would love to learn languages and experience different cultures.",
+        "status": "Inspired",
+        "category": "Experiences"
+    },
+    {
+        "title": "Explore Asia",
+        "description": "Would love to learn languages and experience different cultures.",
+        "status": "Inspired",
+        "category": "Experiences"
     }
 ]

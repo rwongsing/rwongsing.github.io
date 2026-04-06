@@ -1,5 +1,5 @@
 ---
-title: "Music"
+title: "music"
 tags: ["music"]
 ---
 

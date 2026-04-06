@@ -1,4 +1,4 @@
 ---
-title: "Photography"
+title: "photography"
 tags: ["photography"]
 ---

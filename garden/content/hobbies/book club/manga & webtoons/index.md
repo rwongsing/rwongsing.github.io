@@ -1,6 +1,6 @@
 ---
-title: "Manga, Webtoons"
-tags: ["book club", "reading", "manga", "webtoons"]
+title: "manga & webtoons"
+tags: ["reading", "manga", "webtoons", "anime"]
 ---
 
 I only started reading manga/webtoons after starting to watch anime. After a show's season ends, I'm always too excited to wait for the next anime, so I jump to the manga to finish the story. And once I get hooked, **I'm hooked**, and will keep reading until the very end.

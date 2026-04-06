@@ -6,13 +6,29 @@ Welcome to my Digital Garden! This is a place for me to write and share my thoug
 
 I really enjoy logging and keeping track of things, so in a way this garden will serve as a life journal for me. I hope to continuously add things over time.
 
-Note: None of this is written with AI. Just pure human thoughts. Although you could probably already tell from my poor writing skills :D.
+> [!example] Tier Lists
+> Throughout many pages of the garden, I have added Tier Lists based on my own opinion. My interpretation follows this structure:
+>
+> **S Tier** -- The absolute best. It's worth it to drop everything right now and eat/watch/read this.
+>
+> **A Tier** -- I would highly recommend it. And I would probably do it again.
+>
+> **B Tier** -- I would recommend it.
+>
+> **C Tier** -- It's decent. You can skip it or if you have time, you can try it.
+>
+> **D Tier** -- It's not worth your time.
+>
+> **F Tier** -- If I found a magic genie and had 3 wishes, I would wish to get my time back.
 
-#### Check out some of my favorite things:
+> [!note]
+> None of this is written with AI. Just pure human thoughts. Although you could probably already tell that from my writing skills :D.
 
-[[Movies]]
-[[TV Shows]]
-[[book club]]
-[[Photography]]
-[[Music]]
-[[Writing]]
+#### Check out some of my favorite pages:
+
+\[\[Movies\]\]
+\[\[TV Shows\]\]
+\[\[book club\]\]
+\[\[Photography\]\]
+\[\[Music\]\]
+\[\[Writing\]\]

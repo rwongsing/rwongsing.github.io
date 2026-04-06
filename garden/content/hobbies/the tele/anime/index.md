@@ -1,6 +1,6 @@
 ---
 title: "anime"
-tags: ["tvshows", "anime"]
+tags: ["anime"]
 ---
 
 ## Currently Watching:
